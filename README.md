@@ -1,10 +1,3 @@
----
-
-# This code is in no way affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial code. Use at your own risk.
-
----
-
-
 # Message Automation Script
 
 This JavaScript script allows you to automate the process of sending messages in a web interface, such as a chat conversation in a messaging application. Follow these simple steps to use it:
@@ -61,3 +54,9 @@ If you found this script useful or interesting, we encourage you to do the follo
 - **Give a Star**: If you find this script helpful, consider giving a star to this repository. Your support is greatly appreciated.
 
 Thank you for using this script and for your interest in my projects! 😊
+
+---
+
+### This code is in no way affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial code. Use at your own risk.··
+
+---
